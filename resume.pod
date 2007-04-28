@@ -1,0 +1,144 @@
+=head1 NAME
+
+Shawn M Moore C<< <sartak@gmail.com> >>
+
+3 Takoma Circle
+North Reading, MA
+978-207-1105
+
+=head1 WORK EXPERIENCE
+
+=over
+
+=item Mobil on the Run (Reading, MA)
+
+Clerk, September 2005 - present
+
+Handle the register, responsible for the day's money, clean up at night, and
+perform any other duties.
+
+=item Fuller House (Stoneham, MA)
+
+Kitchen Aide, August 2003 - August 2004
+
+Set the table, washed dishes, and cleaned.
+
+=back
+
+=head1 COMPUTER SKILLS
+
+=over
+
+=item Languages
+
+=over
+
+=item Perl
+
+=item C
+
+=item Ruby
+
+=item some Haskell
+
+=item some Scheme
+
+=item HTML + CSS
+
+=back
+
+=item Tools
+
+=over
+
+=item darcs
+
+=item Subversion
+
+=item Make
+
+=item vim
+
+=item GNU screen
+
+=item CPAN!
+
+=item POE
+
+=item ncurses
+
+=back
+
+=item Operating Systems
+
+=over
+
+=item Linux (especially Ubuntu)
+
+=item Windows 95/98/XP
+
+=back
+
+=back
+
+=head1 OTHER ACTIVITIES
+
+=over
+
+=item NetHack
+
+=over
+
+=item Expert player
+
+=item Administrator of June tournament
+
+=item Dozens of small scripts
+
+=item Author of two NetHack-playing bots
+
+=back
+
+=item TopCoder rating: 1284 (max 1558)
+
+=item Budding Go player
+
+=back
+
+=head1 EDUCATION
+
+Medford High School, Medford, MA.
+
+=over
+
+=item Exams
+
+=over
+
+=item Advanced Placement
+
+=over
+
+=item Computer Science A: 5/5
+
+=item Computer Science AB: 5/5
+
+=item Calculus BC: 4/5
+
+=item Chemistry: 5/5
+
+=item English Composition: 5/5
+
+=item English Literature: 3/5
+
+=item US History: 3/5
+
+=back
+
+=item National Latin Exam 1: 36/40
+
+=item National Latin Exam 2: 38/40
+
+=back
+
+=back
