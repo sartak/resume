@@ -25,6 +25,10 @@ Mobil on the Run
 Clerk
 September 2005 - June 2007
 
+Fuller House
+Kitchen Aide
+August 2003 - August 2004
+
 Projects
 ========
 Moose [Perl] - a popular modern object system
