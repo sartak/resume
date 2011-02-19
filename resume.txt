@@ -4,6 +4,8 @@ Address: -
 Phone:   -
 Email:   sartak@gmail.com
 Website: http://sartak.org/
+Code:    http://search.cpan.org/~sartak
+         http://github.com/sartak
 
 Work Experience
 ===============
