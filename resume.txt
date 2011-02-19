@@ -10,10 +10,10 @@ Work Experience
 Best Practical Solutions
 Software Engineer
 June 2007 - present
-* Added dashboards feature to Request Tracker
-* Added conversational text-based user interface to our todo application
+* added dashboards feature to our ticketing system Request Tracker
+* added conversational text-based user interface to our todo application
   Hiveminder, supporting AIM/Jabber, Twitter, SMS
-* Implemented novel AJAX prefetching support for Jifty
+* implemented novel AJAX prefetching support for web framework Jifty
 
 Mobil on the Run
 Clerk
@@ -21,16 +21,39 @@ September 2005 - June 2007
 
 Projects
 ========
-Moose
-Mouse
-Path::Dispatcher
-TAEB
-Devel::REPL, Carp::REPL
-App::Nopaste
-Anki
+Moose [Perl] - a popular modern object system
+  * member of the core development team
+  * implemented anonymous and parameterized roles
+  * taught several full-day Moose courses
+
+Mouse [Perl] - a lightweight Moose-compatible object system
+  * principal author
+  * author of Any::Moose, which loads the more appropriate of Moose or Mouse
+
+TAEB [Perl] - a framework for programmatic NetHack (bots, UIs, etc)
+  * principal author
+  * first AI to hit many milestones in the game
+  * formed community of three authors, a dozen contributors, and many well-wishers
+
+Path::Dispatcher [Perl] - a structured dispatch (URI, script args, etc) system
+  * principal author
+
+App::Nopaste [Perl] - a popular tool to upload text for public viewing
+  * principal author
+
+Devel::REPL [Perl] - a modern interactive Perl shell
+  * author of many plugins, including tab completion and multiple line support
+  * wrote Carp::REPL
+
+Anki [Python, JavaScript] - a spaced repetition flashcard program
+  * author of several plugins, including a scratchpad for writing kanji
 
 Skills
 ======
 Proficient in: Perl, JavaScript
 Working knowledge of: C, Ruby, Haskell, Python
 Tools: git, vim, NetHack
+
+Hobbies
+=======
+Japanese
