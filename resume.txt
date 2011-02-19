@@ -1,0 +1,36 @@
+Shawn M Moore
+=============
+Address: -
+Phone:   -
+Email:   sartak@gmail.com
+Website: http://sartak.org/
+
+Work Experience
+===============
+Best Practical Solutions
+Software Engineer
+June 2007 - present
+* Added dashboards feature to Request Tracker
+* Added conversational text-based user interface to our todo application
+  Hiveminder, supporting AIM/Jabber, Twitter, SMS
+* Implemented novel AJAX prefetching support for Jifty
+
+Mobil on the Run
+Clerk
+September 2005 - June 2007
+
+Projects
+========
+Moose
+Mouse
+Path::Dispatcher
+TAEB
+Devel::REPL, Carp::REPL
+App::Nopaste
+Anki
+
+Skills
+======
+Proficient in: Perl, JavaScript
+Working knowledge of: C, Ruby, Haskell, Python
+Tools: git, vim, NetHack
