@@ -52,7 +52,7 @@ App::Nopaste [Perl] - a popular tool to upload text for public viewing
 
 Devel::REPL [Perl] - a modern interactive Perl shell
   * author of many plugins, including tab completion and multiple line support
-  * wrote Carp::REPL
+  * wrote Carp::REPL which invokes Devel::REPL on error as a debugger
 
 Anki [Python, JavaScript] - a spaced repetition flashcard program
   * author of several plugins, including a scratchpad for writing kanji
