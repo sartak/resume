@@ -55,11 +55,11 @@ App::Nopaste [Perl] - a popular tool to upload text for public viewing
   * principal author
 
 Devel::REPL [Perl] - a modern interactive Perl shell
-  * author of many plugins, including tab completion and multiple line support
+  * contributed many plugins, including tab completion and multiple line support
   * wrote Carp::REPL which invokes Devel::REPL on error as a debugger
 
 Anki [Python, JavaScript] - a spaced repetition flashcard program
-  * author of several plugins, including a scratchpad for writing kanji
+  * contributed several plugins, including a scratchpad for writing kanji
 
 Skills
 ======
