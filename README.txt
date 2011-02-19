@@ -43,7 +43,7 @@ Mouse [Perl] - a lightweight Moose-compatible object system
 TAEB [Perl] - a framework for programmatic NetHack (bots, UIs, etc)
   * principal author
   * first AI to hit many milestones in the game
-  * formed community of three authors, a dozen contributors, and many well-wishers
+  * formed community of three authors, a dozen contributors, and many followers
 
 Interhack [Perl] - a popular NetHack-specific telnet client
   * principal author
