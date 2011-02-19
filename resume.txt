@@ -41,6 +41,9 @@ TAEB [Perl] - a framework for programmatic NetHack (bots, UIs, etc)
   * first AI to hit many milestones in the game
   * formed community of three authors, a dozen contributors, and many well-wishers
 
+Interhack [Perl] - a popular NetHack-specific telnet client
+  * principal author
+
 Path::Dispatcher [Perl] - a structured dispatch (URI, script args, etc) system
   * principal author
 
