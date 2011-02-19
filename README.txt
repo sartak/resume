@@ -13,7 +13,7 @@ Best Practical Solutions
 Software Engineer
 June 2007 - present
   * created dashboards for our ticketing system Request Tracker
-  * added conversational text-based user interface for our todo application
+  * added conversational text-based user interface to our todo application
     Hiveminder, with support for AIM, Jabber, Twitter/SMS
   * architected novel AJAX prefetching support for our web
     framework Jifty
