@@ -9,7 +9,7 @@ Code:    http://search.cpan.org/~sartak
 
 Work Experience
 ===============
-Best Practical Solutions
+Best Practical Solutions (Somerville, MA)
 Software Engineer
 June 2007 - present
   * created dashboards for our ticketing system Request Tracker
@@ -21,11 +21,11 @@ June 2007 - present
     database, and SD, a bug tracker built on top of Prophet
   * primary developer for many client projects
 
-Mobil on the Run
+Mobil on the Run (Reading, MA)
 Clerk
 September 2005 - June 2007
 
-Fuller House
+Fuller House (Stoneham, MA)
 Kitchen Aide
 August 2003 - August 2004
 
