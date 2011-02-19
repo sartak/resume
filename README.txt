@@ -62,4 +62,5 @@ Skills
 Languages:
     Proficient in: Perl, JavaScript, HTML/CSS, SQL
     Familiar with: C, Ruby, Haskell, Python, bash/zsh, Japanese
-Tools: git, vim, nethack
+
+Tools: git, vim, ack, cpanm, perlbrew, nethack
