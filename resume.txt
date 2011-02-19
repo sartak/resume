@@ -10,10 +10,13 @@ Work Experience
 Best Practical Solutions
 Software Engineer
 June 2007 - present
-* added dashboards feature to our ticketing system Request Tracker
-* added conversational text-based user interface to our todo application
-  Hiveminder, supporting AIM/Jabber, Twitter, SMS
-* implemented novel AJAX prefetching support for web framework Jifty
+* created dashboards for our ticketing system Request Tracker
+* added conversational text-based user interface for our todo application
+  Hiveminder, with support for AIM, Jabber, Twitter/SMS
+* architected novel AJAX prefetching support for our web
+  framework Jifty
+* designed the command-line interfaces of Prophet, a distributed property
+  database, and SD, a bug tracker built on top of Prophet
 
 Mobil on the Run
 Clerk
