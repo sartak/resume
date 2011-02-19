@@ -26,7 +26,7 @@ Projects
 ========
 Moose [Perl] - a popular modern object system
   * member of the core development team
-  * implemented anonymous and parameterized roles
+  * implemented anonymous and parameterized roles and many other extensions
   * taught several full-day Moose courses
 
 Mouse [Perl] - a lightweight Moose-compatible object system
