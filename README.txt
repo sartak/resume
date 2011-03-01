@@ -17,6 +17,8 @@ June 2007 - present
     Hiveminder, with support for AIM, Jabber, Twitter/SMS
   * architected novel AJAX prefetching support for our web
     framework Jifty
+  * primary author of a crowdsourced changelog classification service, used by
+    Perl itself
   * designed the command-line interfaces of Prophet, a distributed property
     database, and SD, a bug tracker built on top of Prophet
   * primary developer for many client projects
