@@ -9,9 +9,13 @@ Code:    http://search.cpan.org/~sartak
 
 Work Experience
 ===============
+Infinity Interactive
+Software Engineer
+August 2011 - present
+
 Best Practical Solutions (Somerville, MA)
 Software Engineer
-June 2007 - present
+June 2007 - June 2011
   * created dashboards for our ticketing system Request Tracker
   * added conversational text-based user interface to our todo application
     Hiveminder, with support for AIM, Jabber, Twitter/SMS
