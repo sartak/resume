@@ -60,6 +60,9 @@ Path::Dispatcher [Perl] - a structured dispatch (URI, script args, etc) system
 App::Nopaste [Perl] - a popular tool to upload text for public viewing
   * principal author
 
+Pod::Cpandoc [Perl] - a drop-in perldoc replacement which falls back to live CPAN
+  * principal author
+
 Devel::REPL [Perl] - a modern interactive Perl shell
   * contributed many plugins, including tab completion and multiple line support
   * wrote Carp::REPL which invokes Devel::REPL on error as a debugger
