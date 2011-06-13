@@ -16,15 +16,14 @@ August 2011 - present
 Best Practical Solutions (Somerville, MA)
 Software Engineer
 June 2007 - June 2011
-  * created dashboards for our ticketing system Request Tracker
-  * added conversational text-based user interface to our todo application
+  * created the dashboard system for the ticketing system Request Tracker
+  * added conversational text-based user interface to the web 2.0 todo app
     Hiveminder, with support for AIM, Jabber, Twitter/SMS
-  * architected novel AJAX prefetching support for our web
-    framework Jifty
+  * architected novel AJAX prefetching support for the Jifty web framework
   * primary author of a crowdsourced changelog classification service, used by
-    Perl itself for 5.10.1
-  * designed the command-line interfaces of Prophet, a distributed property
-    database, and SD, a bug tracker built on top of Prophet
+    Perl itself for perl5101delta
+  * designed Path::Dispatcher to support the composable command-line interfaces
+    of Prophet and SD
   * primary developer for many client projects
 
 Mobil on the Run (Reading, MA)
