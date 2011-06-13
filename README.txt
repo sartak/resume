@@ -53,7 +53,7 @@ TAEB [Perl] - a framework for programmatic NetHack (bots, UIs, etc)
 Interhack [Perl] - a popular NetHack-specific telnet client
   * principal author
 
-Path::Dispatcher [Perl] - a structured dispatch (URI, script args, etc) system
+Path::Dispatcher [Perl] - a structured dispatch (URIs, script args, etc) system
   * principal author
 
 App::Nopaste [Perl] - a popular tool to upload text for public viewing
