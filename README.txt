@@ -2,7 +2,7 @@ Shawn M Moore
 =============
 Address: -
 Phone:   -
-Email:   sartak@gmail.com
+Email:   work@sartak.org
 Website: http://sartak.org/
 Code:    http://search.cpan.org/~sartak
          http://github.com/sartak
