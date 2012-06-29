@@ -72,6 +72,10 @@ Devel::REPL [Perl] - a modern interactive Perl shell
 Anki [Python, JavaScript] - a spaced repetition flashcard program
   * contributed several plugins, including a scratchpad for writing kanji
 
+Perl
+  * added phase-change DTrace probe
+  * contributed documentation and tests for Perl's DTrace support
+
 Skills
 ======
 Languages:
