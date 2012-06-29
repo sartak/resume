@@ -26,14 +26,6 @@ June 2007 - June 2011
     of Prophet and SD
   * primary developer for many client projects
 
-Mobil on the Run (Reading, MA)
-Clerk
-September 2005 - June 2007
-
-Fuller House (Stoneham, MA)
-Kitchen Aide
-August 2003 - August 2004
-
 Projects
 ========
 Moose [Perl] - a popular modern object system
