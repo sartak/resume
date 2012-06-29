@@ -77,6 +77,4 @@ Skills
 ======
 Languages:
     Proficient in: Perl, JavaScript/YUI, Objective C, SQL, DTrace, Japanese
-    Familiar with: C, Ruby, Haskell, Python, bash/zsh
-
-Tools: git, vim, ack, cpanm, perlbrew, nethack, Keynote
+    Familiar with: C, Ruby, Haskell, Python, Lisp
