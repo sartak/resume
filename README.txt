@@ -71,6 +71,7 @@ Perl
 Publications
 ============
 Shawn M Moore, 大輔牧. "メタオブジェクトプロトコル入門". WEB+DB PRESS Feb 2012: 166-173.
+    http://gihyo.jp/dev/serial/01/perl-hackers-hub/001301
 
 Skills
 ======
