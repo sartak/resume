@@ -50,6 +50,9 @@ TAEB [Perl] - a framework for programmatic NetHack (bots, UIs, etc)
   * first AI to hit many milestones in the game
   * formed community of three authors, a dozen contributors, and many followers
 
+KanaSwirl [Objective C] - iPhone game for learning Japanese
+  * principal author
+
 Interhack [Perl] - a popular NetHack-specific telnet client
   * principal author
 
