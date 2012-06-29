@@ -75,7 +75,7 @@ Shawn M Moore, 大輔牧. "メタオブジェクトプロトコル入門". WEB+D
 Skills
 ======
 Languages:
-    Proficient in: Perl, JavaScript, Objective C, SQL, DTrace, Japanese
+    Proficient in: Perl, JavaScript/YUI, Objective C, SQL, DTrace, Japanese
     Familiar with: C, Ruby, Haskell, Python, bash/zsh
 
 Tools: git, vim, ack, cpanm, perlbrew, nethack, Keynote
