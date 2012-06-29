@@ -75,7 +75,7 @@ Anki [Python, JavaScript] - a spaced repetition flashcard program
 Skills
 ======
 Languages:
-    Proficient in: Perl, JavaScript, HTML/CSS, SQL, DTrace
-    Familiar with: C, Ruby, Haskell, Python, bash/zsh, Japanese
+    Proficient in: Perl, JavaScript, Objective C, SQL, DTrace, Japanese
+    Familiar with: C, Ruby, Haskell, Python, bash/zsh
 
 Tools: git, vim, ack, cpanm, perlbrew, nethack, Keynote
