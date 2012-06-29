@@ -76,6 +76,10 @@ Perl
   * added phase-change DTrace probe
   * contributed documentation and tests for Perl's DTrace support
 
+Publications
+============
+Shawn M Moore, 大輔牧. "メタオブジェクトプロトコル入門". WEB+DB PRESS Feb 2012: 166-173.
+
 Skills
 ======
 Languages:
